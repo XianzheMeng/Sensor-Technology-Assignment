@@ -1,0 +1,32 @@
+[
+  {
+    "budget": 100000,
+    "uniform_minus_aware_RMSE_uT": 7.056945548243299,
+    "paired_stratified_bootstrap95_uT": [
+      -0.5695330992465718,
+      13.694015952282353
+    ],
+    "batches": 3,
+    "cases_per_batch": 64
+  },
+  {
+    "budget": 1000000,
+    "uniform_minus_aware_RMSE_uT": 5.52781578660523,
+    "paired_stratified_bootstrap95_uT": [
+      4.037427044609155,
+      7.077763589772605
+    ],
+    "batches": 3,
+    "cases_per_batch": 64
+  },
+  {
+    "budget": 10000000,
+    "uniform_minus_aware_RMSE_uT": 2.1962724297990537,
+    "paired_stratified_bootstrap95_uT": [
+      1.490022834379678,
+      2.9282933972210694
+    ],
+    "batches": 3,
+    "cases_per_batch": 64
+  }
+]

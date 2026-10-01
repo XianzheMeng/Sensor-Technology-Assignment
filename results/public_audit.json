@@ -1,0 +1,10 @@
+{
+  "shape": [
+    4693,
+    311
+  ],
+  "doi": "10.6084/m9.figshare.28788437",
+  "source": "https://figshare.com/articles/dataset/28788437",
+  "ground_truth_field_labels": "not present in the downloaded data header",
+  "noise_model": "header says counts/s but channel /Dev1/AI0 and arbitrary-looking units; do not assume integer Poisson counts"
+}

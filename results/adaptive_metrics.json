@@ -1,0 +1,83 @@
+[
+  {
+    "budget": 100000,
+    "method": "uniform",
+    "ncase": 96,
+    "B_RMSE_uT": 36.053626466278835,
+    "E_RMSE_MHz": 1.298496450043369,
+    "catastrophic_rate_30uT": 0.3229166666666667,
+    "mean_computation_seconds": 0.36064036458340826
+  },
+  {
+    "budget": 100000,
+    "method": "B_only",
+    "ncase": 96,
+    "B_RMSE_uT": 46.92443471164807,
+    "E_RMSE_MHz": 1.5309959607771828,
+    "catastrophic_rate_30uT": 0.34375,
+    "mean_computation_seconds": 0.4769344802089108
+  },
+  {
+    "budget": 100000,
+    "method": "nuisance_aware",
+    "ncase": 96,
+    "B_RMSE_uT": 36.11992068747941,
+    "E_RMSE_MHz": 1.348808043435241,
+    "catastrophic_rate_30uT": 0.17708333333333334,
+    "mean_computation_seconds": 0.5239603281247582
+  },
+  {
+    "budget": 1000000,
+    "method": "uniform",
+    "ncase": 96,
+    "B_RMSE_uT": 11.771544464367484,
+    "E_RMSE_MHz": 0.50770504559658,
+    "catastrophic_rate_30uT": 0.020833333333333332,
+    "mean_computation_seconds": 0.4226478187504957
+  },
+  {
+    "budget": 1000000,
+    "method": "B_only",
+    "ncase": 96,
+    "B_RMSE_uT": 11.802431197341491,
+    "E_RMSE_MHz": 0.5265594823882699,
+    "catastrophic_rate_30uT": 0.020833333333333332,
+    "mean_computation_seconds": 0.5306532468762271
+  },
+  {
+    "budget": 1000000,
+    "method": "nuisance_aware",
+    "ncase": 96,
+    "B_RMSE_uT": 7.020592570372347,
+    "E_RMSE_MHz": 0.4659870494166563,
+    "catastrophic_rate_30uT": 0.0,
+    "mean_computation_seconds": 0.6490924270835118
+  },
+  {
+    "budget": 10000000,
+    "method": "uniform",
+    "ncase": 96,
+    "B_RMSE_uT": 3.8112239455421566,
+    "E_RMSE_MHz": 0.18827102513404914,
+    "catastrophic_rate_30uT": 0.0,
+    "mean_computation_seconds": 0.697058081249755
+  },
+  {
+    "budget": 10000000,
+    "method": "B_only",
+    "ncase": 96,
+    "B_RMSE_uT": 4.636354719542916,
+    "E_RMSE_MHz": 0.2453852078386791,
+    "catastrophic_rate_30uT": 0.0,
+    "mean_computation_seconds": 0.7577563083335311
+  },
+  {
+    "budget": 10000000,
+    "method": "nuisance_aware",
+    "ncase": 96,
+    "B_RMSE_uT": 2.490863709839545,
+    "E_RMSE_MHz": 0.1583080518176985,
+    "catastrophic_rate_30uT": 0.0,
+    "mean_computation_seconds": 1.1206886291674891
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "scans": 4693,
+  "frequency_points": 311,
+  "baseline_lag1_correlation": 0.998819605125984,
+  "pca_train_scans": 3754,
+  "top3_variance_fractions": [
+    0.980153175794648,
+    0.003647123415625885,
+    0.0028468299909723397
+  ],
+  "pca_test_scans": 939,
+  "sha256": "748e54dcd66b64ba18999f230b752dfb770d951536102c86fa40bd8160e71ac7",
+  "interpretation": "Descriptive time correlation and PCA only; no inference of field truth or shot-noise model."
+}

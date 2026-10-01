@@ -1,0 +1,8 @@
+{
+  "Hamiltonian_eigenvalue_max_error_MHz": 1.3642420526593924e-12,
+  "numpy_torch_forward_max_difference": 6.426125764846802e-08,
+  "zero_bias_sign_symmetry": true,
+  "second_bias_breaks_sign_symmetry": true,
+  "independent_cases": 100,
+  "status": "passed"
+}

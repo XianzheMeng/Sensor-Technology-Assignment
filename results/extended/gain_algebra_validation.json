@@ -1,0 +1,6 @@
+{
+  "independent_cases": 10000,
+  "max_gain_error": 6.661338147750939e-16,
+  "max_B_error_mT": 1.1102230246251565e-16,
+  "status": "passed"
+}

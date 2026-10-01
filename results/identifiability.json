@@ -1,0 +1,22 @@
+{
+  "single_bias_identical_max_error": 0.0,
+  "second_bias_difference": 0.02193232332334949,
+  "noise_free_recovery_max_error_mT": 7.450580596923828e-08,
+  "pairs": [
+    [
+      0.08,
+      2.0,
+      2870.0,
+      2.0,
+      0.08
+    ],
+    [
+      0.04,
+      2.78625196276288,
+      2870.0,
+      2.0,
+      0.08
+    ]
+  ],
+  "scope": "axial spin-1, known gamma and calibrated biases; E,D fixed across probes"
+}

@@ -1,0 +1,10 @@
+{
+  "zero_hyperfine_reduces_to_two_line_max_error": 1.9715660881658437e-08,
+  "S": 1,
+  "I": 1,
+  "A_parallel_MHz": -2.16,
+  "A_perpendicular_MHz": -2.7,
+  "quadrupole_MHz": -4.95,
+  "nuclear_gamma_MHz_per_mT": 0.003077,
+  "scope": "axial 9-level Hamiltonian, unpolarized nuclear population, transverse polarization average, normalized oscillator weights; not full optical dynamics"
+}

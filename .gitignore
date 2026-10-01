@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+odmr_public.dat
+odmr_public.dat.part
+results/extended/adaptive_batch_*.json
+*.log
+*.aux
+*.out
+*.synctex.gz
