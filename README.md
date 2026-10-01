@@ -1,8 +1,30 @@
+# Course Report
+
+**Frontiers and Progress in Quantum Measurement: Learning-Assisted Nitrogen-Vacancy Magnetometry**
+
+Xianzhe Meng · Huazhong University of Science and Technology
+
+[**Read / download the full five-page PDF**](report/NV_Quantum_Measurement_Report.pdf)
+
+A focused literature review, analytical identifiability examples, and executed simulation studies for the Sensor Principles and Applications course. The report uses a compact two-column layout.
+
+[![Report page 1 of 5](report/preview/page-1.png)](report/preview/page-1.png)
+
+[![Report page 2 of 5](report/preview/page-2.png)](report/preview/page-2.png)
+
+[![Report page 3 of 5](report/preview/page-3.png)](report/preview/page-3.png)
+
+[![Report page 4 of 5](report/preview/page-4.png)](report/preview/page-4.png)
+
+[![Report page 5 of 5](report/preview/page-5.png)](report/preview/page-5.png)
+
+---
+
 # Sensor Technology Assignment: NV Quantum Magnetometry
 
 Code and recorded computational evidence for a **Sensor Principles and Applications** course assignment on **Frontiers and Progress in Quantum Measurement**. The study examines magnetic-field estimation from nitrogen-vacancy (NV) optically detected magnetic resonance (ODMR), combining physical modeling, neural inference, likelihood fitting, and adaptive acquisition.
 
-The course report will be added separately. This repository currently contains the experiment code, trained checkpoints, training histories, saved predictions, and scientific plots.
+This repository contains the five-page English course report, experiment code, trained checkpoints, training histories, saved predictions, and scientific plots.
 
 ## What is evaluated
 
